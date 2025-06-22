@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Hakkımda Kısaca
 
-🎓 Bandırma 17 Eylül Üniversitesi'nde **Yönetim Bilişim Sistemleri** öğrencisiyim.  
+🎓  **Yönetim Bilişim Sistemleri (MIS)** öğrencisiyim.  
 ⚙️ Yazılıma, teknolojiye ve problem çözmeye büyük ilgi duyuyorum.  
 🚀 Gelecekte, **yazılım geliştirme** ve **siber güvenlik** alanlarında uzmanlaşmayı hedefliyorum.  
 
